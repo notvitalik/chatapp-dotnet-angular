@@ -1,0 +1,6 @@
+{
+  "ChatApp.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\apps\\yap\\src\\ChatApp.Api",
+  "ChatApp.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\apps\\yap\\src\\ChatApp.Application",
+  "ChatApp.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\apps\\yap\\src\\ChatApp.Domain",
+  "ChatApp.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\apps\\yap\\src\\ChatApp.Infrastructure"
+}

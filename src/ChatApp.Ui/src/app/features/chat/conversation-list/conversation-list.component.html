@@ -1,0 +1,14 @@
+<section class="panel">
+  <header>
+    <h2>Conversations</h2>
+  </header>
+
+  <ul>
+    @for (conversation of conversations; track conversation.name) {
+      <li>
+        <strong>{{ conversation.name }}</strong>
+        <span>{{ conversation.preview }}</span>
+      </li>
+    }
+  </ul>
+</section>

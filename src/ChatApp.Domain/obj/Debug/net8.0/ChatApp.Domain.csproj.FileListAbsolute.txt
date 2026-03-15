@@ -1,0 +1,11 @@
+D:\apps\yap\src\ChatApp.Domain\bin\Debug\net8.0\ChatApp.Domain.deps.json
+D:\apps\yap\src\ChatApp.Domain\bin\Debug\net8.0\ChatApp.Domain.dll
+D:\apps\yap\src\ChatApp.Domain\bin\Debug\net8.0\ChatApp.Domain.pdb
+D:\apps\yap\src\ChatApp.Domain\obj\Debug\net8.0\ChatApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\apps\yap\src\ChatApp.Domain\obj\Debug\net8.0\ChatApp.Domain.AssemblyInfoInputs.cache
+D:\apps\yap\src\ChatApp.Domain\obj\Debug\net8.0\ChatApp.Domain.AssemblyInfo.cs
+D:\apps\yap\src\ChatApp.Domain\obj\Debug\net8.0\ChatApp.Domain.csproj.CoreCompileInputs.cache
+D:\apps\yap\src\ChatApp.Domain\obj\Debug\net8.0\ChatApp.Domain.dll
+D:\apps\yap\src\ChatApp.Domain\obj\Debug\net8.0\refint\ChatApp.Domain.dll
+D:\apps\yap\src\ChatApp.Domain\obj\Debug\net8.0\ChatApp.Domain.pdb
+D:\apps\yap\src\ChatApp.Domain\obj\Debug\net8.0\ref\ChatApp.Domain.dll
